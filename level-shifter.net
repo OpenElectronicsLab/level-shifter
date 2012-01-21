@@ -1,0 +1,81 @@
+# EESchema Netlist Version 1.1 created  Sat 21 Jan 2012 02:13:05 PM CET
+(
+ ( /4F1AB050 C1 C1 1uF
+  ( 1 VCC )
+  ( 2 GND )
+ )
+ ( /4F1AB05F C1 C2 1uF
+  ( 1 VCC )
+  ( 2 GND )
+ )
+ ( /4F1AAEFA SIL-2 P1 CONN_2
+  ( 1 VCC )
+  ( 2 GND )
+ )
+ ( /4F1AAB5B SIL-8 P2 CONN_8
+  ( 1 N-000013 )
+  ( 2 N-000010 )
+  ( 3 N-000011 )
+  ( 4 N-000002 )
+  ( 5 N-000015 )
+  ( 6 N-000003 )
+  ( 7 N-000004 )
+  ( 8 N-000018 )
+ )
+ ( /4F1AAB70 SIL-8 P3 CONN_8
+  ( 1 N-000007 )
+  ( 2 N-000012 )
+  ( 3 N-000008 )
+  ( 4 N-000017 )
+  ( 5 N-000016 )
+  ( 6 N-000014 )
+  ( 7 N-000009 )
+  ( 8 N-000001 )
+ )
+ ( /4F1AAAD9 DIP-14__300 U1 74LS126
+  ( 1 VCC )
+  ( 2 N-000013 )
+  ( 3 N-000007 )
+  ( 4 VCC )
+  ( 5 N-000010 )
+  ( 6 N-000012 )
+  ( 7 GND )
+  ( 8 N-000008 )
+  ( 9 N-000011 )
+  ( 10 VCC )
+  ( 11 N-000017 )
+  ( 12 N-000002 )
+  ( 13 VCC )
+  ( 14 VCC )
+ )
+ ( /4F1AAAE4 DIP-14__300 U2 74LS126
+  ( 1 VCC )
+  ( 2 N-000015 )
+  ( 3 N-000016 )
+  ( 4 VCC )
+  ( 5 N-000003 )
+  ( 6 N-000014 )
+  ( 7 GND )
+  ( 8 N-000009 )
+  ( 9 N-000004 )
+  ( 10 VCC )
+  ( 11 N-000001 )
+  ( 12 N-000018 )
+  ( 13 VCC )
+  ( 14 VCC )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C1
+ SM*
+ C?
+ C1-1
+$endlist
+$component C2
+ SM*
+ C?
+ C1-1
+$endlist
+$endfootprintlist
+}

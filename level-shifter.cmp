@@ -1,0 +1,52 @@
+Cmp-Mod V01 Created by CvPCB (2011-05-25)-stable date = Sat 21 Jan 2012 02:13:05 PM CET
+
+BeginCmp
+TimeStamp = /4F1AB050;
+Reference = C1;
+ValeurCmp = 1uF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F1AB05F;
+Reference = C2;
+ValeurCmp = 1uF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F1AAEFA;
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F1AAB5B;
+Reference = P2;
+ValeurCmp = CONN_8;
+IdModule  = SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F1AAB70;
+Reference = P3;
+ValeurCmp = CONN_8;
+IdModule  = SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F1AAAD9;
+Reference = U1;
+ValeurCmp = 74LS126;
+IdModule  = DIP-14__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F1AAAE4;
+Reference = U2;
+ValeurCmp = 74LS126;
+IdModule  = DIP-14__300;
+EndCmp
+
+EndListe
