@@ -1,0 +1,8 @@
+# backup files #
+###################
+*.bak
+*.bck
+*cache.lib
+$*
+*.swp
+*.000
