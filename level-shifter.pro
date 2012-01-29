@@ -1,4 +1,4 @@
-update=Sat 21 Jan 2012 01:54:21 PM CET
+update=Sun 29 Jan 2012 12:26:19 PM CET
 version=1
 last_client=pcbnew
 [cvpcb]
@@ -79,7 +79,7 @@ LibName30=valves
 version=1
 [pcbnew]
 version=1
-PadDrlX=320
+PadDrlX=400
 PadDimH=600
 PadDimV=600
 BoardThickness=630
@@ -106,3 +106,4 @@ LibName7=display
 LibName8=valves
 LibName9=led
 LibName10=dip_sockets
+LibName11=PINARRAY-8x1-40
