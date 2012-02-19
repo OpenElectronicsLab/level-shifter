@@ -1,0 +1,10 @@
+Converts 5v to 3.3v
+
+The single-sided PCB design is simple enough that it can be etched at home.
+
+Uses two Texas Instruments: SN74LS126ANE4
+
+Buffers & Line Drivers Quad Bus Buffer With 3-State Outputs
+
+http://nl.mouser.com/ProductDetail/Texas-Instruments/SN74LS126ANE4/?qs=sGAEpiMZZMutXGli8Ay4kP28D9wZ8SQIMqpIftnsrsk%3d
+
